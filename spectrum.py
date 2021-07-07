@@ -64,9 +64,7 @@ if __name__ == "__main__":
         elif 'open code' in query:
             CodePath = "C:\\Users\\Sharuf Das\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
             os.startfile(CodePath)
-        elif 'email to sharuf' in query:
-            try:
-                speak
+     
 
 
 
